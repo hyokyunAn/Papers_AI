@@ -9,7 +9,7 @@ CLIP 모델에 Grad-CAM 적용
 | A photo of a horse | A photo of a wagon | A photo of a horse and a wagon |
 
 
-| ![car](https://public-vcrdata.s3.ap-northeast-2.amazonaws.com/blog/images/grad_car.png)                 | ![family](https://public-vcrdata.s3.ap-northeast-2.amazonaws.com/blog/images/grad_family.png)                    |    ![man](https://public-vcrdata.s3.ap-northeast-2.amazonaws.com/blog/images/grad_man.png)              |                   | ![girl](https://public-vcrdata.s3.ap-northeast-2.amazonaws.com/blog/images/grad_girl.png)
+| ![car](https://public-vcrdata.s3.ap-northeast-2.amazonaws.com/blog/images/grad_car.png)                 | ![family](https://public-vcrdata.s3.ap-northeast-2.amazonaws.com/blog/images/grad_family.png)                    |    ![man](https://public-vcrdata.s3.ap-northeast-2.amazonaws.com/blog/images/grad_man.png)              |   ![girl](https://public-vcrdata.s3.ap-northeast-2.amazonaws.com/blog/images/grad_girl.png)                | 
 |------------------|---------------------|------------------|-------------------|
 | A photo of a car | A photo of a family | A photo of a man | A photo of a girl |
 
