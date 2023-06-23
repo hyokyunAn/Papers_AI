@@ -13,7 +13,7 @@
 
 ## 3. Results
 
-## 4. My Implementation
+## 4. Toy Experiments (My Implementations) 
 
 ## 5. Review
 #### Questions
