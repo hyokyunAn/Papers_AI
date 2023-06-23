@@ -1,10 +1,21 @@
-## Visual ChatGPT
+# Understanding and implementing Visual ChatGPT 
+
+
 
 **Paper** : [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671)
 
 
 **github** : [TaskMatrix](https://github.com/microsoft/TaskMatrix)
 
+## 1. Motivation
+
+## 2. Method
+
+## 3. Results
+
+## 4. My Implementation
+
+## 5. Questions
 Q)
 1. Why Filename sensitivity
 2. Selecting VFMs
