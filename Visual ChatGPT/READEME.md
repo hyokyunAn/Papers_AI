@@ -15,8 +15,8 @@
 
 ## 4. My Implementation
 
-## 5. Questions
-Q)
+## 5. Review
+#### Questions
 1. Why Filename sensitivity
 2. Selecting VFMs
 3. How to determine the end of the chain of reasoning?
