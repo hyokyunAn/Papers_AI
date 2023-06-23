@@ -7,15 +7,23 @@
 
 **github** : [TaskMatrix](https://github.com/microsoft/TaskMatrix)
 
+# Paper Explained
 ## 1. Motivation
 
 ## 2. Method
 
 ## 3. Results
 
-## 4. Toy Experiments (My Implementations) 
+# Implementations
 
-## 5. Review
+## 1. Loading Model
+
+## 2. Experiments
+* Simple Question Answering
+* High-level Reasoning
+* Segmentation
+
+# Review
 #### Questions
 1. Why Filename sensitivity
 2. Selecting VFMs
